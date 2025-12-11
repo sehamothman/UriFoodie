@@ -79,6 +79,7 @@ Check out our **Wizard of Oz** video demo for Urifoodie:
 
 ---
 
+
 ## 🚀 **How to Run**
 1. Clone the repository:
    ```bash
